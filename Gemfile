@@ -1,4 +1,4 @@
-source "http://rubygems.org"
+source "http://mirrors.aliyun.com/rubygems/"
 
 gem 'httparty'
 gem 'childprocess', '0.3.6'
